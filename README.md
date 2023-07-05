@@ -307,6 +307,4 @@
 
 ## Contributors
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=hi6724/ssafy-db)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hi6724/ssafy-db%2Fhit-counter&count_bg=%23047C5A&title_bg=%23DD3E59&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gunhoo/ssafydb%2Fhit-counter&count_bg=%23047C5A&title_bg=%23DD3E59&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
